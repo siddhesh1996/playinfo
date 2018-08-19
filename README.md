@@ -7,7 +7,7 @@ This website fetches data from Cric api and displays the result to the end User
 
 Steps 
 
-1) Inster name into input box of the player you want to know about 
+1) Insert name into input box of the player you want to know about 
 2) It provides you information about 
     i)  name
     ii) Role playing
